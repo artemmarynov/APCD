@@ -1,0 +1,14 @@
+# Runtime versions used for the completed notebook (Python 3.14.8).
+numpy==2.5.3
+pandas==3.1.0
+scipy==1.18.1
+matplotlib==3.11.2
+statsmodels==0.15.0
+geopandas==1.2.0
+geoplot==0.5.1
+rasterio==1.5.2
+libpysal==4.15.1
+esda==2.10.0
+splot==1.1.7
+spreg==1.9.1
+ipykernel==7.4.0

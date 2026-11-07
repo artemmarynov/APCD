@@ -1,0 +1,44 @@
+[
+  {
+    "file": "usa-cities.geojson",
+    "url": "https://raw.githubusercontent.com/ResidentMario/geoplot-data/master/usa-cities.geojson",
+    "downloaded": "2026-11-01",
+    "bytes": 717983,
+    "sha256": "e128404cfc2cd0c4c749671ade13e9be39b22e924ddb601370ac3ff02c2bbd81"
+  },
+  {
+    "file": "dc-roads.geojson",
+    "url": "https://raw.githubusercontent.com/ResidentMario/geoplot-data/master/dc-roads.geojson",
+    "downloaded": "2026-11-01",
+    "bytes": 9072460,
+    "sha256": "a015564a938943ce2aea8f317e1e53058233ce58a5bd4cdd125e59f782ef064e"
+  },
+  {
+    "file": "nyc-boroughs.geojson",
+    "url": "https://raw.githubusercontent.com/ResidentMario/geoplot-data/master/nyc-boroughs.geojson",
+    "downloaded": "2026-11-01",
+    "bytes": 3077124,
+    "sha256": "ba883b9d8a194028cb83f2fc75fedbc88cc072bfa863337a554bf972f4d604d5"
+  },
+  {
+    "file": "nyc-collision-factors.geojson",
+    "url": "https://raw.githubusercontent.com/ResidentMario/geoplot-data/master/nyc-collision-factors.geojson",
+    "downloaded": "2026-11-01",
+    "bytes": 7976868,
+    "sha256": "f1609dd6f76946cc6c1bdb17134ee598fe346bd013a6e7a749534acaf4d73d57"
+  },
+  {
+    "file": "shade.tif",
+    "url": "https://raw.githubusercontent.com/rasterio/rasterio/main/tests/data/shade.tif",
+    "downloaded": "2026-11-01",
+    "bytes": 1050234,
+    "sha256": "844afc27e7e236d6fa0ae8c0a87745d8a388f555280d7c4fddd33cdac6647fff"
+  },
+  {
+    "file": "columbus.csv",
+    "url": "https://raw.githubusercontent.com/GeoDaCenter/GeoDaSpace/master/econometrics/examples/columbus.csv",
+    "downloaded": "2026-11-01",
+    "bytes": 4273,
+    "sha256": "a9b47c01f995f63e356a98f3a46350868ce9f26cfae150fe30049486d675c7d6"
+  }
+]
