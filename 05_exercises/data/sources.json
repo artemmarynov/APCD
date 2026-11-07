@@ -1,0 +1,18 @@
+[
+  {
+    "file": "meuse.csv",
+    "url": "https://raw.githubusercontent.com/mmaelicke/scikit-gstat/master/skgstat/data/samples/meuse.txt",
+    "downloaded": "2026-11-07",
+    "bytes": 10521,
+    "sha256": "b27776bc1cad63c4bf308923c86a5a76a0a02566ac75984b018df2a477b52f64"
+  },
+  {
+    "file": "esri_worldtopo_meuse.tif",
+    "url_template": "https://server.arcgisonline.com/ArcGIS/rest/services/{variant}/MapServer/tile/{z}/{y}/{x}",
+    "provider": "Esri.WorldTopoMap",
+    "attribution": "Tiles (C) Esri -- Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community",
+    "downloaded": "2026-11-07",
+    "zoom": 15,
+    "sha256": "80553b266792754e33b1ca5399207cedc589d8aa976f66ea9bd96df7205f7761"
+  }
+]

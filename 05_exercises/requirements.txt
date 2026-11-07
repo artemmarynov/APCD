@@ -1,0 +1,12 @@
+# Runtime versions used for the completed notebook (Python 3.14.8).
+# scikit-gstat 1.0.27 requires scipy < 1.17.
+numpy==2.5.3
+pandas==3.1.0
+scipy==1.16.3
+matplotlib==3.11.2
+geopandas==1.2.0
+contextily==1.7.1
+rasterio==1.5.2
+scikit-gstat==1.0.27
+scikit-learn==1.9.1
+ipykernel==7.4.0
